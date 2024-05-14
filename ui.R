@@ -6,7 +6,7 @@ library(bslib)
 library(shinydashboard)
 library(shinydashboardPlus)
 
-source('FUNCTIONS/homepage.R')
+source('functions/homepage.R')
 source('modules/preprocess_ui.R')
 source('modules/volcano_ui.R')
 source('modules/dim_red_ui.R')
