@@ -1,7 +1,0 @@
-DATE	<Date>
-NAME	<Experiment Name>
-PIPELINE	<Add the sourec of the data, if unknown mark 'Unknown'>
-CONDITIONS	<Control, Treatment>
-CONTRASTS	<Control^Treatment>
-Control	<List of Control Samples, comma separated, should match the column names in the count matrix>
-Treatment	<List of Treatment Samples, comma separated, should match the column names in the count matrix>
